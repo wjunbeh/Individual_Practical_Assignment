@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NumboFun</string>
+    <string name="compare_numbers">Compare Numbers</string>
+    <string name="order_numbers">Ordering of Numbers</string>
+    <string name="compose_numbers">Composing Numbers</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="question">Question</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="next">Next</string>
+    <string name="correct_answer_message">Correct or Wrong</string>
+    <string name="submit">Submit</string>
+    <string name="target_number">Target Number: </string>
+    <string name="note">*Note: Please select at least two numbers</string>
+    <string name="answer">Answer:</string>
+    <string name="questionNumber">Question Number</string>
+    <string name="quit">Are you sure to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
